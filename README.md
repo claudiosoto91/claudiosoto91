@@ -1,7 +1,7 @@
 <h1 align='center'>Hola! Soy Claudio 👋</h1>
 
 - Desarrollador Web Front End
-- 💬 Tengo conocimientos maquetando en Html y Css, así como también el uso de un preprocesador como Sass que permite un mejor manejo de los estilos para sección del proyecto. Por otro lado, vengo trabajando en tecnologías como React Js y Tailwind, para el diseño de diferentes proyectos como Ecommerce, o Landing Pages.
+- 💬 Tengo conocimientos maquetando en Html y Css, así como también el uso de un preprocesador como Sass que permite un mejor manejo de los estilos para cada sección del proyecto. Por otro lado, vengo trabajando en tecnologías como React Js y Tailwind, para el diseño de diferentes proyectos como Ecommerce, o Landing Pages.
 - Estoy profundizando en el uso de Hooks, Redux, etc para poder mejorar los proyectos ya realizados o iniciar nuevos proyectos y que sean escalables.
 
 <div align="center">
