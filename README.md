@@ -4,11 +4,11 @@
 - 💬 Tengo conocimientos maquetando en Html y Css, así como también el uso de un preprocesador como Sass que permite un mejor manejo de los estilos para cada sección del proyecto. Por otro lado, vengo trabajando en tecnologías como React Js y Tailwind, para el diseño de diferentes proyectos como Ecommerce, o Landing Pages.
 - Estoy profundizando en el uso de Hooks, Redux, etc para poder mejorar los proyectos ya realizados o iniciar nuevos proyectos y que sean escalables.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/claudiosoto91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiosoto91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiosoto91&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
 
 <br>
 
